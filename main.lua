@@ -1,0 +1,13 @@
+-- desktop music player [--]
+-- reddit bot [?]
+-- build blog [X]
+-- File Organiser [/]
+-- QR code maker [?]
+-- Unit Converter [--]
+-- automated recipe bot [--]
+-- twitter bot - inspiring quote [?]
+-- UI + DB [?]
+
+-- PROJECT NAME :
+-- LANGUAGE :
+-- VERSION CONTROLLER :  
